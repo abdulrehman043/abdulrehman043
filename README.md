@@ -6,10 +6,10 @@ I'm a software developer with a passion for innovations and a strong interest in
 
 ## 💼 Skills
 
-- **Languages**: PHP, JavaScript, Python
-- **Frontend Development**: React, Next.js, Jquery
+- **Languages**: PHP, JavaScript, Python, C++, C, Java
+- **Frontend Development**: React.js, Next.js, Jquery
 - **Cloud Services**: AWS, EC2, S3 etc
-- **Backend Development**: CI, NodeJs, Flask
+- **Backend Development**: CodeIgniter, Node.js, Flask, Express.js, MySQL, SQL, MongoDB
 ## 🌐 Portfolio
 
 - [GitHub Profile](https://github.com/abdulrehman043)
