@@ -1,7 +1,21 @@
-- 👋 Hi, I’m @abdulrehman043
-- 👀 I’m interested in ... Software and Web Development
-- 🌱 I’m currently learning ... Anything to boost up skills!
-<!---
-abdulrehman043/abdulrehman043 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Abdul Rehman
+
+## 👀 About Me
+
+I'm a software developer with a passion for web development and a strong interest in creating both frontend and backend solutions. I enjoy building web applications and working with a variety of technologies to bring ideas to life.
+
+## 💼 Skills
+
+- **Languages**: PHP, JavaScript, Python
+- **Frontend Development**: React, Next.js, Jquery
+- **Cloud Services**: AWS, EC2, S3 etc
+- **Backend Development**: CI, NodeJs, Flask
+## 🌐 Portfolio
+
+- [GitHub Profile](https://github.com/abdulrehman043)
+
+## 📫 Get in Touch
+
+- LinkedIn: [Abdul Rehman](https://www.linkedin.com/in/abdulrehman043)
+- Email: rehmanabdul.ar786@gmail.com
+Let's connect and collaborate on interesting projects!
