@@ -2,7 +2,7 @@
 
 ## 👀 About Me
 
-I'm a software developer with a passion for web development and a strong interest in creating both frontend and backend solutions. I enjoy building web applications and working with a variety of technologies to bring ideas to life.
+I'm a software developer with a passion for innovations and a strong interest in creating both frontend and backend solutions. I enjoy building web applications and working with a variety of technologies to bring ideas to life.
 
 ## 💼 Skills
 
