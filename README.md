@@ -8,7 +8,7 @@ I'm a software developer with a passion for innovations and a strong interest in
 
 - **Languages**: PHP, JavaScript, Python, C++, C, Java
 - **Frontend Development**: React.js, Next.js, Jquery
-- **Cloud Services**: AWS, EC2, S3 etc
+- **Cloud Services**: AWS, EC2, S3, Docker
 - **Backend Development**: CodeIgniter, Node.js, Flask, Express.js, MySQL, SQL, MongoDB
 ## 🌐 Portfolio
 
